@@ -14,7 +14,7 @@
 - 📩 You can reach me at [william@wyncode.co]
 
 <div>
-cpp  
+```cpp  
                                     const HelloThere = () => {
                                       console.log(""Hi 👋, I'm Will \n")
                                       console.log("A passionate web developer from Miami, FL \n");

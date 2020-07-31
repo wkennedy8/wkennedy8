@@ -2,7 +2,7 @@
 
 ---
 
-[![Linkedin: williamkennedy8](https://img.shields.io/badge/-leopolicastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamkennedy8/)](https://www.linkedin.com/in/williamkennedy8/)
+[![Linkedin: williamkennedy8](https://img.shields.io/badge/-williamkennedy8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamkennedy8/)](https://www.linkedin.com/in/williamkennedy8/)
 [![GitHub wkennedy8](https://img.shields.io/github/followers/wkennedy8?label=follow&style=social)](https://github.com/wkennedy8)
 
 ## 👨‍💻 About Me

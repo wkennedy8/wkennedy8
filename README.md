@@ -13,18 +13,6 @@
 - ✅ Next on the list, Docker.
 - 📩 You can reach me at [william@wyncode.co]
 
-<div>
-```cpp  
-                                    const HelloThere = () => {
-                                      console.log(""Hi 👋, I'm Will \n")
-                                      console.log("A passionate web developer from Miami, FL \n");
-                                      const currentlyLearning = "GraphQL"
-                                      const askMeAbout = "React/Firebase"
-                                      const funFact = "Ball is Life! 🏀"
-                                      const reachMeAt = "william@wyncode.co"
-                                    }
-                                  
-</div>
 ## 🛠 Tech Stack
 
 - 💻 Node.js | Ruby | Bash

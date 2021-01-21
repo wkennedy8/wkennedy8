@@ -10,7 +10,7 @@
 - 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
 - 🤔 Full Stack Developer that leans towards front end technologies.
 - 🌱 Currently learning GraphQL and Sequelize in my downtime.
-- ✅ Next on the list, Docker.
+- ✅ Next on the list, Solidity.
 - 📩 You can reach me at [william@wyncode.co]
 
 ## 🛠 Tech Stack

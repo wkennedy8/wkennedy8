@@ -9,14 +9,14 @@
 
 - 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
 - 🤔 Full Stack Developer that leans towards front end technologies.
-- 🌱 Currently learning GraphQL and Sequelize in my downtime.
-- ✅ Next on the list, Solidity.
-- 📩 You can reach me at [william@wyncode.co]
+- 🌱 Currently learning React Native and Solidity in my downtime.
+- ✅ Next on the list, React Native Animated API.
+- 📩 You can reach me at [wkennedy210@gmail.com]
 
 ## 🛠 Tech Stack
 
 - 💻 Node.js | Ruby | Bash
-- 🌐 ReactJS | Ruby on Rails
+- 🌐 ReactJS | React Native 
 - 🦊 Sequelize | Mongoose | ActiveRecord
 - 🐙 Express
 - 🐘 PostgreSQL | MongoDB

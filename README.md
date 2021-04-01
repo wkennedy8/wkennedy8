@@ -1,30 +1,30 @@
-# Whats up! I'm William Kennedy
+# Hello World! I'm William Kennedy
 
----
+<br />
 
 [![Linkedin: williamkennedy8](https://img.shields.io/badge/-williamkennedy8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamkennedy8/)](https://www.linkedin.com/in/williamkennedy8/)
 [![GitHub wkennedy8](https://img.shields.io/github/followers/wkennedy8?label=follow&style=social)](https://github.com/wkennedy8)
 
 ## 👨‍💻 About Me
 
-- 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
-- 🤔 Full Stack Developer that leans towards front end technologies.
-- 🌱 Currently learning React Native and Solidity in my downtime.
-- ✅ Next on the list, React Native Animated API.
+- 💼 Associate Educator at [Brainstation](https://brainstation.io)
+- 🤓 Full Stack React Developer.
+- ✍️ Currently learning Ionic React and Typescript in my downtime.
+- ✅ Next on the list, AWS Certified Developer Associate certification.
 - 📩 You can reach me at [wkennedy210@gmail.com]
 
 ## 🛠 Tech Stack
 
 - 💻 Node.js | Ruby | Bash
-- 🌐 ReactJS | React Native 
+- 🌐 ReactJS | React Native | Ionic React
 - 🦊 Sequelize | Mongoose | ActiveRecord
 - 🐙 Express
 - 🐘 PostgreSQL | MongoDB
 - 🌐 JavaScript | HTML | CSS | SCSS
-- 🦜 Bootstrap | Bulma | Material UI
-- 🔧 Git | Dokku
+- 🦜 Bootstrap | Tailwind | Material UI
+- 🔧 Git
 - 🚢 Google Cloud: Firebase | Google Storage
-- 🏄‍♂️ Netlify | Vercel
+- 🏄‍♂️ Netlify | Dokku
 
 ---
 

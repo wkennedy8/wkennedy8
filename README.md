@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Associate Educator at [Brainstation](https://brainstation.io)
+- 💼 Solution Analyst at [Deloitte](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
 - 🤓 Full Stack React Developer.
 - ✍️ Currently learning Ionic React and Typescript in my downtime.
 - ✅ Next on the list, AWS Certified Developer Associate certification.
@@ -17,7 +17,7 @@
 
 - 💻 Node.js | Ruby | Bash
 - 🌐 ReactJS | React Native | Ionic React
-- 🦊 Sequelize | Mongoose | ActiveRecord
+- 🦊 Sequelize | Mongoose | ActiveRecord | ServiceNow
 - 🐙 Express
 - 🐘 PostgreSQL | MongoDB
 - 🌐 JavaScript | HTML | CSS | SCSS

@@ -9,14 +9,14 @@
 
 - 💼 Solution Analyst at [Deloitte](https://www2.deloitte.com/global/en/services/consulting-deloitte.html)
 - 🤓 Full Stack React Developer.
-- ✍️ Currently learning Ionic React and Typescript in my downtime.
-- ✅ Next on the list, AWS Certified Developer Associate certification.
+- ✍️ Currently learning Solidity and Typescript in my downtime.
+- ✅ Next on the list, CAD Developer ServiceNow certification.
 - 📩 You can reach me at [wkennedy210@gmail.com]
 
 ## 🛠 Tech Stack
 
 - 💻 Node.js | Ruby | Bash
-- 🌐 ReactJS | React Native | Ionic React
+- 🌐 ReactJS | React Native | Ionic 
 - 🦊 Sequelize | Mongoose | ActiveRecord | ServiceNow
 - 🐙 Express
 - 🐘 PostgreSQL | MongoDB

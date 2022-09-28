@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ThreeJS, React-Three-Fiber**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **React Native Projects**
 
 - 👨‍💻 All of my projects are available at [https://willkennedy.dev](https://willkennedy.dev)
 

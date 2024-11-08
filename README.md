@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkennedy8&label=Profile%20views&color=0e75b6&style=flat" alt="wkennedy8" /> </p>
 
-- 🔭 I’m currently working on [Oni-Fightwear NFT](https://oni-fightwear.vercel.app/)
+- 🔭 I’m currently working on [No Routine NYC](https://nr24.vercel.app/)
 
 - 🌱 I’m currently learning **ThreeJS, React-Three-Fiber**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.willkennedy.dev](https://blog.willkennedy.dev)
 
-- 💬 Ask me about **React, NextJS, Solidity**
+- 💬 Ask me about **React, NextJS, Sanity, Firebase, MongoDB, Framer Motion**
 
 - 📫 How to reach me **wkennedy210@gmail.com**
 
